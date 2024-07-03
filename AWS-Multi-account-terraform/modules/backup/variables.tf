@@ -1,0 +1,1 @@
+/* Your initial content for variables.tf */
