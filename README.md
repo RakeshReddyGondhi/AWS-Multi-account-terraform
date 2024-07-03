@@ -1,4 +1,4 @@
-# Let's create a more comprehensive end-to-end AWS infrastructure using Terraform. This enhanced setup will include:
+# Let's create a comprehensive end-to-end AWS infrastructure using Terraform. This enhanced setup will include:
 
 1) VPC with Subnets, NAT Gateway, and VPN Gateway
 2) IAM Roles and Policies
